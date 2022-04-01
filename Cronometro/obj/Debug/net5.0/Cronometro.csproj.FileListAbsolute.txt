@@ -1,0 +1,16 @@
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.exe
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.deps.json
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.json
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.dev.json
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.dll
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\ref\Cronometro.dll
+C:\ExerciciosCsharp\Cronometro\bin\Debug\net5.0\Cronometro.pdb
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.csproj.AssemblyReference.cache
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfoInputs.cache
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfo.cs
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.dll
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\ref\Cronometro.dll
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.pdb
+C:\ExerciciosCsharp\Cronometro\obj\Debug\net5.0\Cronometro.genruntimeconfig.cache

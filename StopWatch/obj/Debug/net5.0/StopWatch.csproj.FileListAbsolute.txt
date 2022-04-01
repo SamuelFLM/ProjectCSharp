@@ -1,0 +1,16 @@
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\ExerciciosCsharp\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\ExerciciosCsharp\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache

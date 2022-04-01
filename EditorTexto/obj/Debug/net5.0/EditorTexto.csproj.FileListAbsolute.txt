@@ -1,0 +1,16 @@
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.exe
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.deps.json
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.json
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.dev.json
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.dll
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\ref\EditorTexto.dll
+C:\ExerciciosCsharp\EditorTexto\bin\Debug\net5.0\EditorTexto.pdb
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.AssemblyReference.cache
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfoInputs.cache
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfo.cs
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.dll
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\ref\EditorTexto.dll
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.pdb
+C:\ExerciciosCsharp\EditorTexto\obj\Debug\net5.0\EditorTexto.genruntimeconfig.cache

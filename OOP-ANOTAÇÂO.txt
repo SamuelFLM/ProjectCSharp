@@ -1,0 +1,139 @@
+Não importa o quanto você vá devagar desde que não pare. Confúcio.
+
+
+OOP - Modelar o mais proximo possivel do mundo real.
+
+- O que e um Objeto? : Pega algo da vida real e estruturar de forma organizada no codigo
+	- Um objeto e composto por três items.
+		--Propriedades, metodos e eventos;
+	--Um objeto e sempre um Tipo de referência -> Amarzena na memoria Heap : Endereço dos dados.
+
+- Class e Objetos
+	-Class e um molde para um Objeto
+	-Class e um tipo Complexo.
+		--Propriedades, metodos e eventos;
+	-- Encapsulamento
+		--Encapsulamento : Esse processo de pegar informações,ações que podem realizar, eventos que podem ter. E conceito de encapsulamento.
+		--Agrupar aquilo que faz sentido estar junto.
+	--ABSTRAÇÂO
+		--Esse ato de esconder os detalhes
+	--Herença
+		--Class Pai - principais caracteristicas.
+		--Class Filha - herda caracteristicas da base pai e complementa mais algumas informações coerente a aquele uso.
+		--Herda caracteriscas
+		--Toda propriedade e metodos criado sem informar nada, ele e private.
+
+	--Polimorfismo	
+		--Virtual(Modificadores) - permite que o metodo seja sobrescrito.
+	--Modificadores de Acesso
+		--Consegue ter modificadores de acesso propriedades, metodos e class.
+		--PRIVATE, PROTECTED, INTERNAL e PUBLIC
+		
+		--Private : So e visivel dentro da classe. // Fica restrito ao escopo da class
+		--PROTECTED : Visivel apenas para o filhos da class. // E o escopo da class mais a class filho.
+		--Internal : Fica disponivel para o mesmo namespace, mesmo assembly //Quase não usa.
+		--Public : Fica visivel como um todo. //Visivel para qualquer lugar, qualquer pessoa pode alternar as informações.
+	
+	--Instancia
+		--Ato de transformar a class em um objeto.
+		--Caixinha rosa para metodo, azul para propriedade.
+	--Propriedades
+		--Acessores (get; set;) - Atribuir ou receber valores;
+		--Get : Lendo o valor	
+		--Set : Atribuindo o valor
+	
+	--Metodos
+		--Sobrecargas de metodo: Metodos(nome iguais) com assinaturas diferentes.
+		--Sobrescrita de metodo: Virtual(base) e override(filho) no metodo
+		--Metodo construtor:
+				--Iniciado logo de inicio
+				--Não retorna valores
+				--Recebem valores
+	--Using e Dispose
+		-- Class tem que implementar uma interface ex: <public class Pagamento : IDisposable>
+		--Utilizar o construtor <public Pagamento()>
+		--O dispose vai ser um "destructer> ex : public void Dispose>
+		--Utilizar o Using(e instanciar a class)
+		--USING: Ele utilizar/Consumi a class e destroi ela depois do uso.
+	--Static
+		--Já fica disponivel
+		--Não precisa ser instanciada
+	--Class Selada
+		--Não tem derivadas.
+		--Não permite que sua class seja extendida, não vai poder herda delas.
+		--Utiliza o modificador "sealed"
+	--Parcial Class
+		--Modificador partial
+		--Segmentar sua class em class menores.
+		--Dividi a class.
+	--Interface
+		--Pense Primeiro em como tem que ser feito -> Depois em como fazer.
+		--So carrega definição , carrega o que tem que ser feito.
+		--Modificador interface
+		--Sempre começar com I
+		--Não contem implementação.
+		--Não precisa colocar modificador.
+		--E um contrato , uma definição. NÂO TEM IMPLEMENTAÇÂO
+	public interface IPayment
+	{
+    		DateTime Vencimento { get; set; }
+    		void Pagar(double valor);
+	}
+		--Uma class faz tudo o que o "Contrato" pede.
+	
+	--Class Abstrata
+		--Implementa o contrato.
+		--Modificador abstract
+		--Não pode ser instanciada, so pode ser herdada.
+		--Diferente dos contratos/Interface , pode ter uma implementação que serve como de base.
+
+	--Upcast e Downcast
+		--Upcast : 
+		--Downcast: 
+
+	--Comparação de Objetos
+		--Equals
+		--Interface = IEquatable<Class>-
+   		
+  		  public bool Equals(Pessoa pessoa)
+		 {
+       		 	return Id == pessoa.Id;
+    		 }
+		
+
+	--Delegates
+		--Utilizar o modificador Delegate
+		--Assinaturas tem que ser iguais.
+		
+	Ex:
+
+1-public class Pagamento
+{
+    public delegate void Pagar(double valor);
+}
+
+2-static void RealizarPagamento(double valor)
+    {
+        WriteLine($"Pago o valor de {valor}");
+    }
+
+3-static void Main(string[] args)
+    {
+        var pagar = new Pagamento.Pagar(RealizarPagamento);
+        pagar(25);
+    }
+
+	--Events(Refazer)
+		--
+	--Generics
+	--Utiliza uma letra no parametro
+	--
+	--Os tipos genericos definir esses tipos de entrada Utiliza a letra "T"
+
+
+
+-> Build-in Types -> Tipos Primitivos(Tipos que ja vem com dotnet(int,string,bool,float))
+
+     // Encapsulamento -> agrupar aquilo que faz sentido
+    // Menor os pedaços melhor para fazer isso.
+   // Propriedades -> variaveis
